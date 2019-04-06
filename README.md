@@ -78,7 +78,7 @@ Rabindranath Tagore (1861-1941)
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
 - [New Programming Jargon](https://blog.codinghorror.com/new-programming-jargon/)
 - [Single Most Influential Book Every Programmer Should Read](https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read)
-
+- [How Algorithms Shape Our World](https://www.ted.com/talks/kevin_slavin_how_algorithms_shape_our_world)
 
 ## Kids
 - [Fold n Fly - Paper Airplanes](https://www.foldnfly.com/#/1-1-1-1-1-1-1-1-2)
