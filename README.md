@@ -1,4 +1,4 @@
-# awesome-naveen
+# Naveen's Awesome List Of Internet Resources
 Naveen's list of awesome internet resources. This content contains the very best of internet.
 
 <pre>
