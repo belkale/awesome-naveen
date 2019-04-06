@@ -41,7 +41,7 @@ Rabindranath Tagore (1861-1941)
 - [Do Schools Kill Creativity (TedTalks)](https://www.ted.com/talks/ken_robinson_says_schools_kill_creativity)
 
 ## Finance
-- [One Idiot (Youtube)](https://www.youtube.com/watch?v=vU1l1TB7GzI)
+- [One Idiot (Hindi, Youtube)](https://www.youtube.com/watch?v=vU1l1TB7GzI)
 - [Mutual Funds For Beginners](https://unovest.co/2019/02/mutual-funds-beginners/)
 - [Podcast - Brilliant v/s Boring](https://www.npr.org/sections/money/2016/03/04/469247400/episode-688-brilliant-vs-boring)
 - [Make Money Work For You](https://retired.re-ynd.com/make-money-work-for-you/)
@@ -115,7 +115,7 @@ Rabindranath Tagore (1861-1941)
 - [Last Life Changing Seminar By Sandeep Maehshwari (Hindi, Youtube)](https://www.youtube.com/watch?v=eDiA1p5DlLg)
 - [Malgudi Days - All Episodes (Youtube)](https://www.youtube.com/watch?v=aEjfHV0YbII&list=PL_c7L8RcICKpLCrTT_ZlyBlooup2aHBjT)
 - [Sugar: The Bitter Truth (Youtube)](https://www.youtube.com/watch?v=dBnniua6-oM)
-- [One Idiot (Youtube)](https://www.youtube.com/watch?v=vU1l1TB7GzI)
+- [One Idiot (Hindi, Youtube)](https://www.youtube.com/watch?v=vU1l1TB7GzI)
 - [How Will Your Measure Your Life (Youtube)](https://www.youtube.com/watch?v=tvos4nORf_Y)
 - [Nature Sounds (Youtube)](https://www.youtube.com/playlist?list=PL0997F448578D8566)
 
