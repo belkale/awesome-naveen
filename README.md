@@ -66,7 +66,7 @@ Rabindranath Tagore (1861-1941)
 
 ## Programming
 - [Atom Editor](https://atom.io/)
-- [Mastering Programmin](https://www.facebook.com/notes/kent-beck/mastering-programming/1184427814923414/)
+- [Mastering Programming](https://www.facebook.com/notes/kent-beck/mastering-programming/1184427814923414/)
 - [Slow Is Fast](http://www.programmerfu.com/2017/04/20/fast-is-slow-slow-is-smooth-smooth-is-fast.html)
 - [What Chinese Corner Cutting Reveals About Modernity](https://aeon.co/essays/what-chinese-corner-cutting-reveals-about-modernity)
 - [Choose An Open Source License](https://choosealicense.com/)
