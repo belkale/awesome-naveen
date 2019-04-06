@@ -15,7 +15,6 @@ Rabindranath Tagore (1861-1941)
 
 ## Contents
 - [Inspiration](#inspiration)
-- [TED Talks](#ted-talks)
 - [Education](#education)
 - [Finance](#finance)
 - [Health](#health)
@@ -24,29 +23,29 @@ Rabindranath Tagore (1861-1941)
 - [Technical](#technical)
 - [Machine Learning](#machine-learning)
 - [India](#india)
-- [Hindi Inspiration](#hindi-inspiration)
-- [Kannada Inspiration](#kannada-inspiration)
+- [TED Talks](#ted-talks)
+- [Youtube](#youtube)
 
 ## Inspiration
-- [Last Lecture by Randy Pausch](https://www.youtube.com/watch?v=ji5_MqicxSo)
-- [Battle At Kruger](https://www.youtube.com/watch?v=LU8DDYz68kM)
-- [Everybody's Free to Wear Sunscreen](https://www.youtube.com/watch?v=MQlJ3vOp6nI)
-
-## TED Talks
-- [Do Schools Kill Creativity](https://www.ted.com/talks/ken_robinson_says_schools_kill_creativity)
+- [Last Lecture by Randy Pausch (Youtube)](https://www.youtube.com/watch?v=ji5_MqicxSo)
+- [Battle At Kruger (Youtube)](https://www.youtube.com/watch?v=LU8DDYz68kM)
+- [Everybody's Free to Wear Sunscreen (Youtube)](https://www.youtube.com/watch?v=MQlJ3vOp6nI)
+- [Hindi - Last Life Changing Seminar By Sandeep Maehshwari (Youtube)](https://www.youtube.com/watch?v=eDiA1p5DlLg)
+- [Kannada - Weekend With Ramesh](https://www.zee5.com/tvshows/details/witness-an-inspiration-journey/0-6-43)
 
 ## Education
 - [Khan Academy for Science and Maths](https://www.khanacademy.org/)
 - [Toys From Trash](http://www.arvindguptatoys.com/toys.html)
 - [List of Common Misconceptions](https://en.wikipedia.org/wiki/List_of_common_misconceptions)
+- [Do Schools Kill Creativity - (TedTalks)](https://www.ted.com/talks/ken_robinson_says_schools_kill_creativity)
 
 ## Finance
-- [One Idiot](https://www.youtube.com/watch?v=vU1l1TB7GzI)
+- [One Idiot (Youtube)](https://www.youtube.com/watch?v=vU1l1TB7GzI)
 - [Mutual Funds For Beginners](https://unovest.co/2019/02/mutual-funds-beginners/)
 - [Podcast - Brilliant v/s Boring](https://www.npr.org/sections/money/2016/03/04/469247400/episode-688-brilliant-vs-boring)
 
 ## Health
-- [Sugar: The Bitter Truth](https://www.youtube.com/watch?v=dBnniua6-oM)
+- [Sugar: The Bitter Truth (Youtube)](https://www.youtube.com/watch?v=dBnniua6-oM)
 - [The Scientific 7-Minute Workout](https://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/)
 - [The Recommended Routine - Reddit](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine)
 
@@ -67,12 +66,19 @@ Rabindranath Tagore (1861-1941)
 - [Machine Learning Course By Andrew NG](https://www.coursera.org/learn/machine-learning)
 
 ## India
-- [Malgudi Days - All Episodes](https://www.youtube.com/watch?v=aEjfHV0YbII&list=PL_c7L8RcICKpLCrTT_ZlyBlooup2aHBjT)
+- [Malgudi Days - All Episodes (Youtube)](https://www.youtube.com/watch?v=aEjfHV0YbII&list=PL_c7L8RcICKpLCrTT_ZlyBlooup2aHBjT)
 - [Scenes From India](http://archive.boston.com/bigpicture/2008/09/scenes_from_india.html)
 
-## Hindi Inspiration
-- [Last Life Changing Seminar By Sandeep Maehshwari](https://www.youtube.com/watch?v=eDiA1p5DlLg)
+## TED Talks
+- [Do Schools Kill Creativity - (TedTalks)](https://www.ted.com/talks/ken_robinson_says_schools_kill_creativity)
 
-## Kannada Inspiration
-- [Weekend With Ramesh](https://www.zee5.com/tvshows/details/witness-an-inspiration-journey/0-6-43)
+## Youtube
+- [Last Lecture by Randy Pausch (Youtube)](https://www.youtube.com/watch?v=ji5_MqicxSo)
+- [Battle At Kruger (Youtube)](https://www.youtube.com/watch?v=LU8DDYz68kM)
+- [Everybody's Free to Wear Sunscreen (Youtube)](https://www.youtube.com/watch?v=MQlJ3vOp6nI)
+- [Hindi - Last Life Changing Seminar By Sandeep Maehshwari (Youtube)](https://www.youtube.com/watch?v=eDiA1p5DlLg)
+- [Kannada - Weekend With Ramesh](https://www.zee5.com/tvshows/details/witness-an-inspiration-journey/0-6-43)
+- [Malgudi Days - All Episodes](https://www.youtube.com/watch?v=aEjfHV0YbII&list=PL_c7L8RcICKpLCrTT_ZlyBlooup2aHBjT)
+- [Sugar: The Bitter Truth (Youtube)](https://www.youtube.com/watch?v=dBnniua6-oM)
+- [One Idiot (Youtube)](https://www.youtube.com/watch?v=vU1l1TB7GzI)
 
