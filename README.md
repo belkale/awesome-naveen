@@ -22,7 +22,7 @@ Rabindranath Tagore (1861-1941)
 - [Productivity](#productivity)
 - [Programming](#programming)
 - [Kids](#kids)
-- [Technical](#technical)
+- [Technology](#technology)
 - [Machine Learning](#machine-learning)
 - [India](#india)
 - [TED Talks](#ted-talks)
@@ -84,8 +84,9 @@ Rabindranath Tagore (1861-1941)
 - [Fold n Fly - Paper Airplanes](https://www.foldnfly.com/#/1-1-1-1-1-1-1-1-2)
 - [Toys From Trash](http://www.arvindguptatoys.com/toys.html)
 
-## Technical
+## Technology
 - [Firefox Browser](https://www.mozilla.org/en-US/firefox/)
+- [Hacker News](https://news.ycombinator.com/)
 - [Google I/O](https://events.google.com/io/) - Yearly Technical Conference By Google
 - [Apple WWDC](https://developer.apple.com/wwdc19/) - Yearly Developer Conference By Apple
 
