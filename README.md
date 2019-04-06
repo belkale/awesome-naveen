@@ -37,7 +37,7 @@ Rabindranath Tagore (1861-1941)
 - [Khan Academy for Science and Maths](https://www.khanacademy.org/)
 - [Toys From Trash](http://www.arvindguptatoys.com/toys.html)
 - [List of Common Misconceptions](https://en.wikipedia.org/wiki/List_of_common_misconceptions)
-- [Do Schools Kill Creativity - (TedTalks)](https://www.ted.com/talks/ken_robinson_says_schools_kill_creativity)
+- [Do Schools Kill Creativity (TedTalks)](https://www.ted.com/talks/ken_robinson_says_schools_kill_creativity)
 
 ## Finance
 - [One Idiot (Youtube)](https://www.youtube.com/watch?v=vU1l1TB7GzI)
@@ -70,7 +70,7 @@ Rabindranath Tagore (1861-1941)
 - [Scenes From India](http://archive.boston.com/bigpicture/2008/09/scenes_from_india.html)
 
 ## TED Talks
-- [Do Schools Kill Creativity - (TedTalks)](https://www.ted.com/talks/ken_robinson_says_schools_kill_creativity)
+- [Do Schools Kill Creativity (TedTalks)](https://www.ted.com/talks/ken_robinson_says_schools_kill_creativity)
 
 ## Youtube
 - [Last Lecture by Randy Pausch (Youtube)](https://www.youtube.com/watch?v=ji5_MqicxSo)
