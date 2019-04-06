@@ -77,6 +77,7 @@ Rabindranath Tagore (1861-1941)
 - [8 Basic Types Of Functions](http://mathonweb.com/help_ebook/html/functions_4.htm)
 - [An Example Machine Learning Notebook](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)
 - [TED Talks](https://gallery.keshif.me/tedtalks)
+- [A Neural Network Playground](http://playground.tensorflow.org/)
 
 ## India
 - [Malgudi Days - All Episodes (Youtube)](https://www.youtube.com/watch?v=aEjfHV0YbII&list=PL_c7L8RcICKpLCrTT_ZlyBlooup2aHBjT)
