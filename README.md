@@ -35,7 +35,6 @@ Rabindranath Tagore (1861-1941)
 
 ## Education
 - [Khan Academy for Science and Maths](https://www.khanacademy.org/)
-- [Toys From Trash](http://www.arvindguptatoys.com/toys.html)
 - [List of Common Misconceptions](https://en.wikipedia.org/wiki/List_of_common_misconceptions)
 - [Do Schools Kill Creativity (TedTalks)](https://www.ted.com/talks/ken_robinson_says_schools_kill_creativity)
 
@@ -56,6 +55,7 @@ Rabindranath Tagore (1861-1941)
 
 ## Kids
 - [Fold n Fly - Paper Airplanes](https://www.foldnfly.com/#/1-1-1-1-1-1-1-1-2)
+- [Toys From Trash](http://www.arvindguptatoys.com/toys.html)
 
 ## Technical
 - [Firefox Browser](https://www.mozilla.org/en-US/firefox/)
