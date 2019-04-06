@@ -1,5 +1,5 @@
-# Naveen's Awesome List Of Internet Resources
-Naveen's list of awesome internet resources. This content contains the very best of internet.
+# Naveen's List Of Awesome Internet Resources
+The very best of internet.
 
 <pre>
 Where the mind is without fear and the head held high;
