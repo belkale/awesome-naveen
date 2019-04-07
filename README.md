@@ -22,11 +22,13 @@ Rabindranath Tagore (1861-1941)
 - [Life](#life)
 - [Productivity](#productivity)
 - [Programming](#programming)
+- [Utility](#utility)
 - [Kids](#kids)
 - [Technology](#technology)
 - [Machine Learning](#machine-learning)
 - [India](#india)
-- [TED Talks](#ted-talks)
+- [Entertainment](#entertainment)
+- [TED Talks](#tedtalks)
 - [Youtube](#youtube)
 
 ## Inspiration
@@ -91,15 +93,27 @@ Rabindranath Tagore (1861-1941)
 - [Git Trends](http://gittrends.io/#/explore?page=1&language=All&domain=All&growth=All)
 - [The Art Of Command Line](https://github.com/jlevy/the-art-of-command-line)
 
+## Utility
+- [OK Google](https://ok-google.io/)
+- [Internet Speed Test](https://fast.com/)
+- [Typical Weather Anywhere On Earth](https://weatherspark.com/)
+- [Wolfram Alpha](https://www.wolframalpha.com/)
+- [Dropbox](https://www.dropbox.com/)
+
 ## Kids
 - [Fold n Fly - Paper Airplanes](https://www.foldnfly.com/#/1-1-1-1-1-1-1-1-2)
 - [Toys From Trash](http://www.arvindguptatoys.com/toys.html)
+- [Little Krishna - Episode 1 Attack Of Serpent King (Youtube)](https://www.youtube.com/watch?v=z1p7Lo8nwNI&list=ELuHus5qSip_2Z7KxIrOxQWg)
+- [Little Krishna - The Darling Of Vrindavan (Youtube)](https://www.youtube.com/watch?v=67S2RDPqoOU)
 
 ## Technology
 - [Firefox Browser](https://www.mozilla.org/en-US/firefox/)
 - [Hacker News](https://news.ycombinator.com/)
 - [Google I/O](https://events.google.com/io/) - Yearly Technical Conference By Google
 - [Apple WWDC](https://developer.apple.com/wwdc19/) - Yearly Developer Conference By Apple
+- [Linux Journey](https://linuxjourney.com/)
+- [Douglas Adams: Parrots the Universe and Everything (Youtube)](https://www.youtube.com/watch?v=_ZG8HBuDjgc)
+- [D5 Interview With Bill Gates and Steve Jobs](http://allthingsd.com/20071224/best-of-2007-video-d5-interview-with-bill-gates-and-steve-jobs/)
 
 ## Machine Learning
 - [Machine Learning Course By Andrew NG](https://www.coursera.org/learn/machine-learning)
@@ -113,6 +127,10 @@ Rabindranath Tagore (1861-1941)
 ## India
 - [Malgudi Days - All Episodes (Youtube)](https://www.youtube.com/watch?v=aEjfHV0YbII&list=PL_c7L8RcICKpLCrTT_ZlyBlooup2aHBjT)
 - [Scenes From India](http://archive.boston.com/bigpicture/2008/09/scenes_from_india.html)
+
+## Entertainment
+- [Film Fish](https://www.film-fish.com/)
+- [Where the Hell is Matt?](https://www.youtube.com/watch?v=zlfKdbWwruY&gl=IN&hl=en-GB)
 
 ## TED Talks
 - [TED Talks](https://gallery.keshif.me/tedtalks)
@@ -129,5 +147,9 @@ Rabindranath Tagore (1861-1941)
 - [One Idiot (Hindi, Youtube)](https://www.youtube.com/watch?v=vU1l1TB7GzI)
 - [How Will Your Measure Your Life (Youtube)](https://www.youtube.com/watch?v=tvos4nORf_Y)
 - [Nature Sounds (Youtube)](https://www.youtube.com/playlist?list=PL0997F448578D8566)
+- [Douglas Adams: Parrots the Universe and Everything (Youtube)](https://www.youtube.com/watch?v=_ZG8HBuDjgc)
+- [Little Krishna - Episode 1 Attack Of Serpent King (Youtube)](https://www.youtube.com/watch?v=z1p7Lo8nwNI&list=ELuHus5qSip_2Z7KxIrOxQWg)
+
+
 
 
