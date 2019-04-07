@@ -79,6 +79,11 @@ Rabindranath Tagore (1861-1941)
 - [New Programming Jargon](https://blog.codinghorror.com/new-programming-jargon/)
 - [Single Most Influential Book Every Programmer Should Read](https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read)
 - [How Algorithms Shape Our World (Tedtalks)](https://www.ted.com/talks/kevin_slavin_how_algorithms_shape_our_world)
+- [23 Guidelines For Writing Readable Code](https://alemil.com/guidelines-for-writing-readable-code)
+- [Software Disenchantment](http://tonsky.me/blog/disenchantment/)
+- [Data Structure Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+- [Git Trends](http://gittrends.io/#/explore?page=1&language=All&domain=All&growth=All)
+- [The Art Of Command Line](https://github.com/jlevy/the-art-of-command-line)
 
 ## Kids
 - [Fold n Fly - Paper Airplanes](https://www.foldnfly.com/#/1-1-1-1-1-1-1-1-2)
