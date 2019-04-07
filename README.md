@@ -18,6 +18,7 @@ Rabindranath Tagore (1861-1941)
 - [Education](#education)
 - [Finance](#finance)
 - [Health](#health)
+- [Spiritual](#spiritual)
 - [Life](#life)
 - [Productivity](#productivity)
 - [Programming](#programming)
@@ -50,6 +51,11 @@ Rabindranath Tagore (1861-1941)
 - [Sugar: The Bitter Truth (Youtube)](https://www.youtube.com/watch?v=dBnniua6-oM)
 - [The Scientific 7-Minute Workout](https://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/)
 - [The Recommended Routine - Reddit](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine)
+
+## Spiritual
+- [Smullyan: Planet Without Laughter](https://www-cs-faculty.stanford.edu/~knuth/smullyan.html)
+- [Bhagavadgita Discourse By Swami Nikhilananda](https://www-cs-faculty.stanford.edu/~knuth/smullyan.html)
+- [Zen Stories To Tell Your Neighbors](http://truecenterpublishing.com/zenstory/zenstory.html)
 
 ## Life
 - [How Will Your Measure Your Life (Youtube)](https://www.youtube.com/watch?v=tvos4nORf_Y)
