@@ -28,7 +28,7 @@ Rabindranath Tagore (1861-1941)
 - [Machine Learning](#machine-learning)
 - [India](#india)
 - [Entertainment](#entertainment)
-- [TED Talks](#ted talks)
+- [TED Talks](#tedtalks)
 - [Youtube](#youtube)
 
 ## Inspiration
