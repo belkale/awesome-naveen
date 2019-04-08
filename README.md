@@ -63,6 +63,7 @@ Rabindranath Tagore (1861-1941)
 - [How Will Your Measure Your Life (Youtube)](https://www.youtube.com/watch?v=tvos4nORf_Y)
 - [The Minimalists](https://www.theminimalists.com/start/)
 - [Most Lives Are Lived By Default](https://www.raptitude.com/2012/07/most-lives-are-lived-by-default/)
+- [The Beginner's Guide To Zen Habits](https://zenhabits.net/the-beginners-guide-to-zen-habits-a-guided-tour/)
 
 ## Productivity
 - [Why is everyone so busy?](https://www.economist.com/christmas-specials/2014/12/20/why-is-everyone-so-busy)
