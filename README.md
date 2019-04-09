@@ -140,8 +140,8 @@ Rabindranath Tagore (1861-1941)
 - [Do Schools Kill Creativity (Tedtalks)](https://www.ted.com/talks/ken_robinson_says_schools_kill_creativity)
 - [How Algorithms Shape Our World (Tedtalks)](https://www.ted.com/talks/kevin_slavin_how_algorithms_shape_our_world)
 - [Your Body Language May Shape Who You Are (Tedtalks)](https://www.ted.com/talks/amy_cuddy_your_body_language_shapes_who_you_are?referrer=playlist-the_most_popular_talks_of_all)
-- [How Great Leaders Inspire Action](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?referrer=playlist-the_most_popular_talks_of_all&language=en)
-- [The Power Of Vulnerability](https://www.ted.com/talks/brene_brown_on_vulnerability?referrer=playlist-the_most_popular_talks_of_all&language=en)
+- [How Great Leaders Inspire Action (Tedtalks)](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?referrer=playlist-the_most_popular_talks_of_all&language=en)
+- [The Power Of Vulnerability (Tedtalks)](https://www.ted.com/talks/brene_brown_on_vulnerability?referrer=playlist-the_most_popular_talks_of_all&language=en)
 
 ## Youtube
 - [Last Lecture by Randy Pausch (Youtube)](https://www.youtube.com/watch?v=ji5_MqicxSo)
