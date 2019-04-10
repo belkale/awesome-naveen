@@ -142,6 +142,8 @@ Rabindranath Tagore (1861-1941)
 - [Your Body Language May Shape Who You Are (Tedtalks)](https://www.ted.com/talks/amy_cuddy_your_body_language_shapes_who_you_are?referrer=playlist-the_most_popular_talks_of_all)
 - [How Great Leaders Inspire Action (Tedtalks)](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?referrer=playlist-the_most_popular_talks_of_all&language=en)
 - [The Power Of Vulnerability (Tedtalks)](https://www.ted.com/talks/brene_brown_on_vulnerability?referrer=playlist-the_most_popular_talks_of_all&language=en)
+- [How To Speak So That People Want To Listen (Tedtalks)](https://www.ted.com/talks/julian_treasure_how_to_speak_so_that_people_want_to_listen?referrer=playlist-the_most_popular_talks_of_all)
+- [What Makes A Good Life (Tedtalks)](https://www.ted.com/talks/robert_waldinger_what_makes_a_good_life_lessons_from_the_longest_study_on_happiness?referrer=playlist-the_most_popular_talks_of_all&language=en)
 
 ## Youtube
 - [Last Lecture by Randy Pausch (Youtube)](https://www.youtube.com/watch?v=ji5_MqicxSo)
